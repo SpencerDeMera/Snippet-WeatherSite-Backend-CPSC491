@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/calmakris/cpsc491-snippet-backend#readme",
   "dependencies": {
+    "apicache": "^1.6.3",
     "axios": "^1.1.3",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
